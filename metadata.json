@@ -1,0 +1,6 @@
+{
+  "name": "Usman AI",
+  "description": "A premium AI chat application.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
